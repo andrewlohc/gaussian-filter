@@ -5,4 +5,4 @@ This is a MATLAB project I did for ELE882 Multimedia Systems back in Spring of 2
 
 Report: https://github.com/andrewlohc/gaussian-filters/blob/master/documents/report.pdf
 
-Presentaiton: https://github.com/andrewlohc/gaussian-filters/blob/master/documents/presentation.pptx
+Presentaiton: https://github.com/andrewlohc/guassian-filter/blob/master/documents/presentation.pptx
